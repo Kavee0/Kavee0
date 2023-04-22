@@ -1,6 +1,6 @@
 <div align="right">
 
-![Views](https://komarev.com/ghpvc/?username=Yomal-Dulanjana&label=VIEWS)
+![Views](https://komarev.com/ghpvc/?username=Kavee0&label=VIEWS)
  
  
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGfhtXq7PwD6g/profile-displaybackgroundimage-shrink_200_800/0/1652265307084?e=1657756800&v=beta&t=RIzsACkZ3EEA2_mBi0hx08vNvSeE9hlkWAJ_UUe1j5A)
@@ -11,17 +11,17 @@
 
 </div>
 <div align="center">
-   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm Yomal Dulanajana<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm Kaveen Gayantha<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
 </div>
 
 ### Connect with me so that we can share our skills:
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/yomal-dulanjana-b6a631198/"><img height="30" src="https://img.icons8.com/color/50/000000/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/yomal.dulanjana.7/"><img height="30" src="https://img.icons8.com/color/48/000000/facebook.png"></a>&nbsp;&nbsp;
-    <a href=""><img height="30" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"></a>&nbsp;&nbsp;
-     <a href="yomaldulanjana00@gmail.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kaveen-gayantha-809237250/"><img height="30" src="https://img.icons8.com/color/50/000000/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/profile.php?id=100075483087522&mibextid=LQQJ4d"><img height="30" src="https://img.icons8.com/color/48/000000/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/kaveen.gayantha?igshid=YmMyMTA2M2Y="><img height="30" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"></a>&nbsp;&nbsp;
+     <a href="kaveengayantha578@gmail.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a>&nbsp;&nbsp;
    
 </p>
 
@@ -33,17 +33,17 @@
 <br>
 <br>
 <p align="center">
-  <a href="https://github.com/Yomal-Dulanjana/github-readme-stats">
+  <a href="https://github.com/Kavee0/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yomal-Dulanjana&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavee0&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/Yomal-Dulanjana/github-readme-stats">
+  <a href="https://github.com/Kavee0/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Yomal-Dulanjana&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=Kavee0&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
     />
   </a>
 </p>
